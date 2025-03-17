@@ -1,0 +1,6 @@
+framework module PangleAppLovinAdapterFramework {
+  umbrella header "PangleAppLovinAdapterFramework.h"
+  export *
+
+  module * { export * }
+}
